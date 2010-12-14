@@ -1,2 +1,2 @@
 Configuration files for Mac OS X and Linux.
-Some of the files are useful. Others are experiments.
+Some of the files are useful. Others are experimental.
